@@ -1,0 +1,16 @@
+Primeira etapa:		Voltar o Snapshot da aula anterior
+Segunda etapa.:		Criar um novo HD de 70gb
+Terceira etapa:		Ativar o HD com suporte ao MBR
+Quarta etapa..:		Diminuir a Partição do Win10 (metade)
+Quinta etapa..:		Criar partição: Arquivos
+			(será explicado na aula)
+Sexta etapa...:		Particionar e Formatar o HD como: BKP
+			(será explicado na aula)
+Sétima etapa..:		Fazer a clonagem da Partição: Arquivos para BKP
+			(será explicado na aula)
+Oitava etapa..:		Remover a partição: Arquivos
+Nona etapa....:		Redimensionar a Partição do Win10
+Décima etapa..:		Instalar o GNU/Linux Mint
+			(Debian, 4096MB, 50GB, Rede Bridge)
+			Atualizar o sistema e instalar o aplicativo: Gparted
+			SERÁ UTILIZADO AMANHÃ, TIRAR UM SNAPSHOT NO FINAL
